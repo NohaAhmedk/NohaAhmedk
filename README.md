@@ -1,54 +1,55 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Hey+There!+🚀;+I'm+Noha+Ahmed+💜" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&pause=1000&center=true&vCenter=true&width=800&height=80&lines=🚀+Welcome+to+My+World!+;+I'm+Noha+Ahmed+Mohamed!+💜;+Flutter+Developer+%7C+Tech+Enthusiast" />
 </div>
 
 ---
 
-## 🌟 About Me
+## 🎨 Who Am I?
 
-👩‍💻 **Flutter Developer | Mobile App Enthusiast**  
-🎯 Passionate about **building seamless and scalable mobile applications**  
-💡 Skilled in **Flutter, Dart, Firebase, REST APIs, UI/UX Design**  
-📌 Exploring **AI-powered mobile applications & Advanced State Management**  
-🌍 Open to collaborations on **exciting Flutter projects & Open Source**  
-📫 Reach me at: **nohaahmedk1@gmail.com**  
+💻 **Mobile App Developer | Tech Explorer**  
+🔥 Passionate about **creating smooth & scalable mobile experiences**  
+🎯 Skilled in **Flutter, Dart, Firebase, REST APIs, UI/UX Design**  
+🤖 Exploring **AI-powered mobile applications & Advanced State Management**  
+🌍 Open for **collaborations & Open Source Contributions**  
+📫 Connect with me: **nohaahmedk1@gmail.com**  
 
 ---
 
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,git,github,figma,postman,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,vscode,git,github,figma,postman,linux,sqlite,python" />
     <br>
     <img src="https://img.shields.io/badge/-State Management-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-API Integration-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Clean Architecture-purple?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
     <a href="https://github.com/NohaAhmedk/github-readme-stats">
-        <img alt="Noha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NohaAhmedk&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+        <img alt="Noha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NohaAhmedk&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" />
     </a>
     <a href="https://github.com/NohaAhmedk/github-readme-stats">
-        <img alt="Noha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NohaAhmedk&langs_count=8&layout=compact&theme=radical&hide_border=true" />
+        <img alt="Noha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NohaAhmedk&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true" />
     </a>
 </p>
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Top Projects
 
-🌾 [**Crop Guard**](https://github.com/NohaAhmedk/crop-guard) - Smart farming app integrating **AI & IoT**  
-🌦️ [**Weather App**](https://github.com/NohaAhmedk/weather_app) - Real-time weather forecasting using **OpenWeather API**  
-📚 [**Bookly App**](https://github.com/NohaAhmedk/BooklyApp) - A **modern book library** with Firebase authentication  
-📰 [**News App**](https://github.com/NohaAhmedk/NewsApp) - Stay updated with the latest news from multiple sources  
+🚜 [**Crop Guard**](https://github.com/NohaAhmedk/crop-guard) - AI-powered smart farming solution 🌱  
+🌦️ [**Weather Wizard**](https://github.com/NohaAhmedk/weather_app) - Real-time weather updates with API integration ☀️  
+📚 [**Bookly**](https://github.com/NohaAhmedk/BooklyApp) - A beautiful book library with Firebase authentication 📖  
+📰 [**News Pulse**](https://github.com/NohaAhmedk/NewsApp) - Latest news updates from multiple sources 🗞️  
 
 ---
 
-## 🤝 Connect With Me
+## 🔥 Let's Connect
 
 <p align="center">
     <a href="https://linkedin.com/in/nohaahmedk1" target="_blank">
@@ -65,5 +66,5 @@
 ---
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=70&lines=Thanks+for+visiting!+💜;+Let's+connect+and+build+awesome+apps!+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Thanks+for+stopping+by!+💜;+Let's+create+something+amazing+%F0%9F%9A%80" />
 </h3>
